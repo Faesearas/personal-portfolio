@@ -4,16 +4,30 @@ body{
 }
 .sidebar {
     float: left;
+    width: auto;
+    background-color: #FFED00;
 }
 #about-me {
     /*blank id for internal navigation*/
 }
 .header {
-    position: fixed;
     background-color: #FF8C00;
     font-weight: 400;
     float: center;
     width: 100%;
     text-align: center;
-    padding-left: 50px;
+    height: auto;
+    margin-bottom: 0%;
+}
+.nav-bar {
+    background-color: #FF8C00;
+    font-weight: 400;
+    float: center;
+    width: 100; 
+    text-align: center;
+    height:auto;
+    margin-top: 0%;
+    }
+.nav-bar a{
+    margin-left: 25px;
 }
