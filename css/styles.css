@@ -1,0 +1,19 @@
+/*Style sheet for Amy's personal profile*/
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sidebar {
+    float: left;
+}
+#about-me {
+    /*blank id for internal navigation*/
+}
+.header {
+    position: fixed;
+    background-color: #FF8C00;
+    font-weight: 400;
+    float: center;
+    width: 100%;
+    text-align: center;
+    padding-left: 50px;
+}
