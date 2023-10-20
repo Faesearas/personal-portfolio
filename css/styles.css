@@ -4,9 +4,10 @@ body{
 }
 .sidebar {
     float: left;
-    width: 100px;
-    height: 95%;
+    width: 16%;
+    height: 1080px;
     background-color: #FFED00;
+    margin: auto;
 }
 #about-me {
     /*blank id for internal navigation*/
@@ -35,13 +36,14 @@ body{
     float: center;
     text-align: center;
     height:auto;
-    margin-top: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
     }
 .nav-bar a{
     margin-left: 25px;
 }
 .main-about {
-    float: left;
+    float: center;
     padding-left: 120px;
 }
 .strike{
@@ -50,7 +52,7 @@ body{
 .amyav {
     float: center;
     width: 20%;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 32%;
+    margin-right: 32%;
 
 }
