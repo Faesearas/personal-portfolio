@@ -4,10 +4,20 @@ body{
 }
 .sidebar {
     float: left;
-    width: auto;
+    width: 100px;
+    height: 95%;
     background-color: #FFED00;
 }
 #about-me {
+    /*blank id for internal navigation*/
+}
+#projects {
+    /*blank id for internal navigation*/
+}
+#earlycss {
+    /*blank id for internal navigation*/
+}
+#boringlecture {
     /*blank id for internal navigation*/
 }
 .header {
@@ -23,11 +33,24 @@ body{
     background-color: #FF8C00;
     font-weight: 400;
     float: center;
-    width: 100; 
     text-align: center;
     height:auto;
     margin-top: 0%;
     }
 .nav-bar a{
     margin-left: 25px;
+}
+.main-about {
+    float: left;
+    padding-left: 120px;
+}
+.strike{
+    text-decoration: line-through;
+}
+.amyav {
+    float: center;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+
 }
