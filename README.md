@@ -12,7 +12,7 @@
 
 > A simple (*for now*) portfolio project website
 > that should practically demonstrate what I've learned
-> during my time at Epicodus. It can be found [here] (https://amyhruska.github.io/personal-portfolio)
+> during my time at Epicodus. It can be found [here](https://amyhruska.github.io/personal-portfolio)
 
 ## Setup/Installation
 
