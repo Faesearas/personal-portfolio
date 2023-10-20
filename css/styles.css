@@ -1,24 +1,19 @@
 /*Style sheet for Amy's personal profile*/
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #D162A4;
 }
 .sidebar {
     float: left;
-    width: 16%;
+    width: 180px;
     height: 1080px;
-    background-color: #FFED00;
+    background-color: #FF9A56;
     margin: auto;
 }
 #about-me {
     /*blank id for internal navigation*/
 }
 #projects {
-    /*blank id for internal navigation*/
-}
-#earlycss {
-    /*blank id for internal navigation*/
-}
-#boringlecture {
     /*blank id for internal navigation*/
 }
 .header {
@@ -28,7 +23,10 @@ body{
     width: 100%;
     text-align: center;
     height: auto;
-    margin-bottom: 0%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: solid #A30262;
+    border-width: 3px;
 }
 .nav-bar {
     background-color: #FF8C00;
@@ -38,13 +36,15 @@ body{
     height:auto;
     margin-top: 1%;
     margin-bottom: 1%;
+
     }
 .nav-bar a{
     margin-left: 25px;
 }
 .main-about {
     float: center;
-    padding-left: 120px;
+    padding-left: 200px;
+    padding-right: 180px;
 }
 .strike{
     text-decoration: line-through;
@@ -52,7 +52,6 @@ body{
 .amyav {
     float: center;
     width: 20%;
-    margin-left: 32%;
-    margin-right: 32%;
-
+    margin-left: 25%;
+    margin-right: 25%;
 }
