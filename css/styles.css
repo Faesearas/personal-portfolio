@@ -54,4 +54,16 @@ body{
     width: 20%;
     margin-left: 25%;
     margin-right: 25%;
+    border: solid #A30262;
+    border-width: 3px;
+}
+.imgart {
+    margin-left: 3%;
+    margin-right: 1%;
+    width: 20%;
+    height: auto;
+    float: left;
+    border: solid #A30262;
+    border-width: 3px;
+    margin-bottom: 1%;
 }
