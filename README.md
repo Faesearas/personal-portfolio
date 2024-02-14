@@ -1,6 +1,6 @@
 # Amy's Portfolio Project
 
-#### By _Amy Hruska_
+#### By _Amy_
 #### This is a student portfolio project that utilizes HTML and CSS.
 
 ### Technologies used
@@ -12,11 +12,11 @@
 
 > A simple (*for now*) portfolio project website
 > that should practically demonstrate what I've learned
-> during my time at Epicodus. It can be found [here](https://amyhruska.github.io/personal-portfolio)
+> during my time at Epicodus. It can be found [here](https://faesearas.github.io/personal-portfolio)
 
 ## Setup/Installation
 
-* Clone repository from [here](https://github.com/AmyHruska/personal-portfolio)
+* Clone repository from [here](https://github.com/Faesearas/personal-portfolio)
 * Open the folder into VS Code
 * Open index.html with Live Server
  
